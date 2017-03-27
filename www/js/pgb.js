@@ -20,3 +20,11 @@ function deviceInfo() {
 	navigator.notification.alert(info);
 	
 }
+
+function myData() {
+
+	info =  'Radosław C. UEK';
+
+	navigator.notification.alert(info);
+	
+}
